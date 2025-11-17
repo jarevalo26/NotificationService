@@ -1,8 +1,8 @@
 # NotificationService
 
-Proyecto API para envío de notificaciones por SendGrid.
+Proyecto API para envï¿½o de notificaciones por SendGrid.
 
-Instrucciones rápidas:
+Instrucciones rï¿½pidas:
 
 1. Configura tus secretos (SendGrid API key, connection string) como variables de entorno o User Secrets.
 2. Restaurar paquetes y compilar:
@@ -14,4 +14,4 @@ Instrucciones rápidas:
 
    dotnet run --project NotificationService.API
 
-No incluyas claves en el repositorio.
+# No incluyas claves en el repositorio.
